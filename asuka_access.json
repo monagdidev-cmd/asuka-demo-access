@@ -2,5 +2,5 @@
   "enabled": true,
   "current_token": "ASUKA-PATRON-0730",
   "grace_hours": 48,
-  "message": "This demo is available while you are an active supporter."
+  "message": "This demo is available to active supporters.\nPlease enter your access ticket to continue.\n\nIf you don’t have one yet, you can get it by supporting the project on Patreon."
 }
